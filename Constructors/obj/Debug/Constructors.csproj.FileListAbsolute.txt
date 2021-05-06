@@ -1,0 +1,7 @@
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\Constructors\bin\Debug\Constructors.exe
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\Constructors\bin\Debug\Constructors.pdb
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\Constructors\obj\Debug\Constructors.exe
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\Constructors\obj\Debug\Constructors.pdb
