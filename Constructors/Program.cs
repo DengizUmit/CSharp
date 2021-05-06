@@ -31,7 +31,7 @@ namespace Constructors
         // default constructor
         public Customer()
         {
-            //Console.WriteLine("Yapıcı Block çalıştı");
+            // Console.WriteLine("Yapıcı Block çalıştı");
         }
 
         public Customer(int id, string firstName, string lastName, string city)
