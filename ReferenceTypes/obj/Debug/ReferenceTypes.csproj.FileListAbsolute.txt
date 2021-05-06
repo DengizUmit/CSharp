@@ -1,0 +1,7 @@
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\ReferenceTypes\obj\Debug\ReferenceTypes.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\ReferenceTypes\obj\Debug\ReferenceTypes.pdb
