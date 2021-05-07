@@ -1,0 +1,16 @@
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\bin\Debug\net5.0\LinqProject.exe
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\bin\Debug\net5.0\LinqProject.deps.json
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\bin\Debug\net5.0\LinqProject.runtimeconfig.json
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\bin\Debug\net5.0\LinqProject.runtimeconfig.dev.json
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\bin\Debug\net5.0\LinqProject.dll
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\bin\Debug\net5.0\ref\LinqProject.dll
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\bin\Debug\net5.0\LinqProject.pdb
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\obj\Debug\net5.0\LinqProject.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\obj\Debug\net5.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\obj\Debug\net5.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\obj\Debug\net5.0\LinqProject.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\obj\Debug\net5.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\obj\Debug\net5.0\LinqProject.dll
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\obj\Debug\net5.0\ref\LinqProject.dll
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\obj\Debug\net5.0\LinqProject.pdb
+C:\Users\ÜmitDengiz\source\repos\CSharp - Iyi Programcı Serisi\LinqProject\obj\Debug\net5.0\LinqProject.genruntimeconfig.cache
